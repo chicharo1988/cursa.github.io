@@ -1,0 +1,76 @@
+body {
+font-size: 1.2 rem;
+background: #D3CCE3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+/* atributos del spinner */
+
+.centrado {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hidden {
+    overflow: hidden;
+}
+/* ............................. */
+
+
+/* atributos del carousel */
+
+#carouselExampleIndicators {
+    box-shadow: 0 8px 8px 0 rgba(2, 19, 39, 0.445);
+}
+
+/* ............................. */
+
+/* atributos del nav */
+
+.fondo-nav {
+    background: #5C258D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4389A2, #5C258D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0 8px 8px 0 rgba(2, 19, 39, 0.445);
+    letter-spacing: 2px;
+	transition: 1.5s;
+	text-decoration: none;
+}
+
+.abajo {
+    opacity: 0.85;
+    font-weight: 600;
+    color: black !important;
+    background: #5C258D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4389A2, #5C258D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0 8px 8px 0 rgba(2, 19, 39, 0.445);
+    letter-spacing: 2px;
+	transition: 1.5s;
+	text-decoration: none;
+}
+/* ....................... */
+
+/* atributos de las secciones */
+#nosotros {
+    background: #5C258D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4389A2, #5C258D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+/* atributos del fotter */
+#footer {
+    background: #5C258D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4389A2, #5C258D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+/* ..................... */
+
+
